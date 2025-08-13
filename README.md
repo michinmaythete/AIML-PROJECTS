@@ -23,11 +23,10 @@ Each project focuses on solving a specific problem using different ML/DL techniq
 ## 🛠 Technologies Used
 - Python
 - Google Colab
+- Jupyter Notebook
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 - TensorFlow / Keras
 
 
-   ```bash
-   git clone https://github.com/michinmaythete/AIML-PROJECTS.git
